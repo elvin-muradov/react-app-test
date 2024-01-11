@@ -6,7 +6,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} alt="Logo"/>
                 <p>
-                    Cyka Blyat
+                    Salam
                 </p>
             </header>
         </div>
